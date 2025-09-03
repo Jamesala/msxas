@@ -1,0 +1,11 @@
+disnake==2.9.2
+disnake-pagination
+python-dotenv
+trueskill
+mpmath
+topggpy
+websockets
+pymongo>=4.0.0
+dnspython
+motor==3.1.2
+aiohttp

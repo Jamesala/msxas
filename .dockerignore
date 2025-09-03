@@ -1,0 +1,11 @@
+.github
+.idea
+CONTRIBUTING.md
+HOSTING.md
+LICENSE
+README.md
+.gitignore
+more-details.md
+db/main.sqlite
+docs
+tests

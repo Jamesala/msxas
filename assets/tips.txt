@@ -1,0 +1,3 @@
+Wyświetl swoją rangę za pomocą /rank
+Twój MMR będzie widoczny po 10 meczach
+Pamiętaj, aby dodać swój battletag za pomocą /ign
